@@ -33,7 +33,8 @@ logs/
 .env.*
 application-secret.properties
 application-prod.properties
-secret.properties
+secrets.properties
+system.properties
 
 # =========================================
 # Runtime upload folders
